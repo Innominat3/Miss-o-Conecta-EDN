@@ -54,6 +54,3 @@ Calcula a divisão inteira e o resto de uma divisão.
 - Cálculo do resto (%)
 - Validação para divisão por zero
 
-### Opção 1: Executar o Menu Principal
-```bash
-python main.py
